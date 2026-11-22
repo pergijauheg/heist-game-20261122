@@ -1,5 +1,9 @@
 # 🎩 The Velvet Vault
 
+[![make.fun](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/pergijauheg/heist-game-20261122/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/pergijauheg/heist-game-20261122/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+
 A top-down stealth heist game that runs 100% offline in a desktop browser.
 You are **Velvet**, a gentleman thief. Cross three guarded rooms, crack the
 vault, steal the Velvet Diamond, and slip out the getaway door — unseen.
